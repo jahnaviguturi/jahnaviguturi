@@ -76,7 +76,6 @@ I'm currently exploring entry-level opportunities in:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahnaviguturi&theme=github_dark" height="170" alt="GitHub statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=github_dark" height="170" alt="Repositories by language" />
 </div>
 
