@@ -2,7 +2,7 @@
 
 # Hi, I'm Jahnavi 👋
 
-### Aspiring Software Developer | Java • Python • Backend • Frontend
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=71B48D&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+Backend+%7C+Frontend;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Animated introduction" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&color=404E7C&style=flat" alt="Profile views" />
@@ -91,7 +91,7 @@ I'm currently exploring entry-level opportunities in:
 ☕ Java & Backend Development  ████████████████████
 💻 Software Engineering        ███████████████████░
 🌐 Frontend Development        █████████████████░░░
-🗄️ Database Development         █████████████████░░░
+🗄️ Database Development        █████████████████░░░
 🐍 Python Development          ███████████████░░░░░
 🧩 Problem Solving             ██████████████████░░
 ```
@@ -152,6 +152,14 @@ Programming Fundamentals
                 ▼
         Full-Stack Development
 ```
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+</div>
 
 ---
 
