@@ -1,185 +1,162 @@
 <div align="center">
 
-# Hi, I'm Jahnavi 👋
+# 👋 Hi, I'm Jahnavi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=71B48D&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+Backend+%7C+Frontend;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+2026+Graduate;Java+%E2%80%A2+Python+%E2%80%A2+Backend+%E2%80%A2+Frontend;Building+projects.+Solving+problems.+Growing+every+day." alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&color=404E7C&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jahnaviguturi?label=Followers&style=flat&color=71B48D" alt="Followers" />
+  <a href="mailto:jahnaviguturi1@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jahnaviguturi"><img src="https://img.shields.io/badge/GitHub-jahnaviguturi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&style=flat-square&color=7C3AED" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering graduate (2026)** focused on building practical software and growing as a versatile **Software Developer** across backend and frontend technologies.
+```java
+class Developer {
+    String name = "Jahnavi";
+    String status = "CSE Graduate • 2026";
+    String[] interests = {"Software Development", "Backend", "Frontend"};
+    String[] currentlyLearning = {"Spring Boot", "DSA", "JavaScript"};
+}
+```
 
-- ☕ Building with **Java** and exploring backend development
-- 🌱 Currently learning **Spring Boot** and strengthening backend development skills
-- 🗄️ Working with **SQL, MySQL and Hibernate**
-- 🐍 Familiar with **Python fundamentals**
-- 🌐 Building with **HTML, CSS and JavaScript**
-- 🧠 Practising **DSA, OOP and problem-solving fundamentals**
-- 🎯 Open to **Software, Java, Python, Backend, Full Stack and Frontend entry-level roles**
-
-> **Learn → Build → Debug → Improve → Repeat 🔁**
+I enjoy building practical applications and learning how software works from the database to the user interface. My current focus is strengthening my **Java backend**, **SQL**, **Spring Boot**, and **frontend development** skills while building projects I can confidently discuss in interviews.
 
 ---
 
-## 🎯 Open To Opportunities
+## 🎯 Open to Opportunities
 
-I'm currently exploring entry-level opportunities in:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**💻 Software Development**
+### 💻 Software Engineering
 - Junior Software Developer
-- Software Engineer – Fresher
+- Software Engineer — Fresher
 - Associate Software Engineer
-- Software Development Engineer – Entry Level
+- Software Development Engineer — Entry Level
 
-**☕ Java Development**
-- Java Developer – Fresher
-- Backend Developer – Java
+</td>
+<td width="50%" valign="top">
+
+### ☕ Development Roles
+- Java Developer — Fresher
+- Backend Developer — Java
 - Java Full Stack Developer
+- Python Developer — Fresher
+- Frontend / Junior Web Developer
 
-**🐍 Python Development**
-- Python Developer – Fresher
-
-**🌐 Frontend Development**
-- Frontend Developer – Entry Level
-- Junior Web Developer
-- Software Developer roles involving HTML, CSS and JavaScript
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,hibernate" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=github_dark" height="170" alt="Repositories by language" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnaviguturi&theme=github_dark" alt="GitHub contribution summary" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,hibernate" alt="Backend and database" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven" alt="Tools" />
+
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 📊 GitHub Snapshot
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=transparent" height="170" alt="Repositories by language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnaviguturi&theme=transparent" alt="GitHub contribution summary" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌦️ ClimaCore
+**Weather Application**
+
+`JavaScript` `HTML` `CSS` `API`
+
+Fetches and displays weather information using an external API.
+
+</td>
+<td width="33%" valign="top">
+
+### ✅ ToDo Application
+**Task Management App**
+
+`JavaScript` `HTML` `CSS` `LocalStorage`
+
+A simple task manager with persistent browser storage.
+
+</td>
+<td width="33%" valign="top">
+
+### 🍽️ Swaadika
+**Restaurant Website**
+
+`HTML` `CSS` `JavaScript`
+
+A responsive website focused on UI and frontend fundamentals.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Leveling Up
 
 ```text
-☕ Java & Backend Development  ████████████████████
-💻 Software Engineering        ███████████████████░
-🌐 Frontend Development        █████████████████░░░
-🗄️ Database Development        █████████████████░░░
-🐍 Python Development          ███████████████░░░░░
-🧩 Problem Solving             ██████████████████░░
+Java                 ████████████████████
+SQL & MySQL          ██████████████████░░
+Hibernate            ████████████████░░░░
+Spring Boot          ████████████░░░░░░░░
+JavaScript           █████████████░░░░░░░
+DSA & Problem Solving██████████████░░░░░░
 ```
 
 ---
 
-## 📌 Projects
-
-### 🌤️ ClimaCore — Weather Application
-**JavaScript • HTML • CSS • API Integration**
-
-A weather application that fetches and displays weather information using an external API.
-
-### 📝 ToDo Application
-**HTML • CSS • JavaScript • LocalStorage**
-
-A productivity application for managing tasks with persistent browser storage.
-
-### 🍽️ Swaadika — Restaurant Website
-**HTML • CSS • JavaScript**
-
-A responsive restaurant website focused on clean UI and frontend development.
-
----
-
-## 🧠 Currently Working On
-
-- 🌱 Strengthening **Spring Boot** fundamentals
-- 🗄️ Building better **Java + Database applications**
-- 🌐 Improving **JavaScript and frontend development** skills
-- 🧩 Improving **DSA and problem-solving skills**
-- 🚀 Creating projects I can confidently explain in interviews
-
----
-
-## 🛣️ Developer Roadmap
+## 🗺️ Current Learning Path
 
 ```text
-Programming Fundamentals
-        │
-        ├───────────────┐
-        ▼               ▼
-     Java            Frontend
-        │               │
-        ▼               ▼
- OOP • SQL        HTML • CSS • JS
-        │               │
-        ▼               ▼
-   Hibernate      Frontend Projects
-        │               │
-        └───────┬───────┘
-                ▼
-           Spring Boot
-                │
-                ▼
-        REST APIs + Projects
-                │
-                ▼
-        Full-Stack Development
+ Java Fundamentals ──► SQL & MySQL ──► Hibernate
+        │                                  │
+        │                                  ▼
+        └──────► Spring Boot ───────► REST APIs
+                                              │
+Frontend ◄── HTML • CSS • JavaScript ◄────────┘
+                    │
+                    ▼
+            Full-Stack Projects
 ```
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="mailto:jahnaviguturi1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-404E7C?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jahnaviguturi">
-    <img src="https://img.shields.io/badge/GitHub-jahnaviguturi-251F47?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-### ✨ Building skills. Building projects. Building my developer journey.
+### 💡 *Learn. Build. Debug. Repeat.*
 
-*Open to entry-level opportunities, learning and collaboration.*
+**Open to entry-level software development opportunities and collaboration.**
 
 </div>
