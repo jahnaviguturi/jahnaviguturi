@@ -62,11 +62,6 @@ I'm a **Computer Science Engineering graduate (2026)** focused on building pract
 
 ## 📌 Projects
 
-### 📚 CampusReads — Library Management System
-**Java • Hibernate • MySQL**
-
-Database-driven application supporting core book management operations such as adding, viewing, searching and updating records.
-
 ### 🌤️ ClimaCore — Weather Application
 **JavaScript • HTML • CSS • API Integration**
 
@@ -90,12 +85,6 @@ A responsive restaurant website focused on clean UI and frontend development.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahnaviguturi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviguturi&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jahnaviguturi&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
