@@ -79,17 +79,6 @@ A responsive restaurant website focused on clean UI and frontend development.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahnaviguturi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviguturi&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🧠 Currently Working On
 
 - 🌱 Strengthening **Spring Boot** fundamentals
