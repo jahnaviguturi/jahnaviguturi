@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student graduating in 2026**, focused on building practical software and growing into a strong **Software / Backend Developer**.
+I'm a **Computer Science Engineering graduate (2026)** focused on building practical software and growing as a **Software / Backend Developer**.
 
 - ☕ Building with **Java** and exploring backend development
 - 🌱 Currently learning **Spring Boot** and strengthening my backend skills
