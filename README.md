@@ -2,7 +2,7 @@
 
 # Hi, I'm Jahnavi 👋
 
-### Aspiring Software Developer | Java • Spring Boot • SQL
+### Aspiring Software Developer | Java • Python • Backend • Frontend
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&color=404E7C&style=flat" alt="Profile views" />
@@ -15,23 +15,48 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering graduate (2026)** focused on building practical software and growing as a **Software / Backend Developer**.
+I'm a **Computer Science Engineering graduate (2026)** focused on building practical software and growing as a versatile **Software Developer** across backend and frontend technologies.
 
 - ☕ Building with **Java** and exploring backend development
-- 🌱 Currently learning **Spring Boot** and strengthening my backend skills
+- 🌱 Currently learning **Spring Boot** and strengthening backend development skills
 - 🗄️ Working with **SQL, MySQL and Hibernate**
-- 🧠 Practising **DSA, OOP and problem-solving fundamentals**
 - 🐍 Familiar with **Python fundamentals**
-- 🌐 Exploring **HTML, CSS and JavaScript**
-- 🎯 Actively seeking **Entry-Level Software Developer / Java Developer opportunities**
+- 🌐 Building with **HTML, CSS and JavaScript**
+- 🧠 Practising **DSA, OOP and problem-solving fundamentals**
+- 🎯 Open to **Software, Java, Python, Backend, Full Stack and Frontend entry-level roles**
 
 > **Learn → Build → Debug → Improve → Repeat 🔁**
 
 ---
 
+## 🎯 Open To Opportunities
+
+I'm currently exploring entry-level opportunities in:
+
+**💻 Software Development**
+- Junior Software Developer
+- Software Engineer – Fresher
+- Associate Software Engineer
+- Software Development Engineer – Entry Level
+
+**☕ Java Development**
+- Java Developer – Fresher
+- Backend Developer – Java
+- Java Full Stack Developer
+
+**🐍 Python Development**
+- Python Developer – Fresher
+
+**🌐 Frontend Development**
+- Frontend Developer – Entry Level
+- Junior Web Developer
+- Software Developer roles involving HTML, CSS and JavaScript
+
+---
+
 ## 💻 Tech Stack
 
-### Languages
+### Languages & Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
@@ -51,11 +76,12 @@ I'm a **Computer Science Engineering graduate (2026)** focused on building pract
 ## 🎯 Areas of Interest
 
 ```text
-☕ Backend Development       ████████████████████
-🧩 Problem Solving           ██████████████████░░
-🗄️ Database Development      ██████████████████░░
-🌐 Full-Stack Development    █████████████████░░░
-🚀 Building Real Projects    ███████████████████░
+☕ Java & Backend Development  ████████████████████
+💻 Software Engineering        ███████████████████░
+🌐 Frontend Development        █████████████████░░░
+🗄️ Database Development         █████████████████░░░
+🐍 Python Development          ███████████████░░░░░
+🧩 Problem Solving             ██████████████████░░
 ```
 
 ---
@@ -65,7 +91,7 @@ I'm a **Computer Science Engineering graduate (2026)** focused on building pract
 ### 🌤️ ClimaCore — Weather Application
 **JavaScript • HTML • CSS • API Integration**
 
-A weather application that fetches and displays live weather information using an external API.
+A weather application that fetches and displays weather information using an external API.
 
 ### 📝 ToDo Application
 **HTML • CSS • JavaScript • LocalStorage**
@@ -83,6 +109,7 @@ A responsive restaurant website focused on clean UI and frontend development.
 
 - 🌱 Strengthening **Spring Boot** fundamentals
 - 🗄️ Building better **Java + Database applications**
+- 🌐 Improving **JavaScript and frontend development** skills
 - 🧩 Improving **DSA and problem-solving skills**
 - 🚀 Creating projects I can confidently explain in interviews
 
@@ -91,25 +118,27 @@ A responsive restaurant website focused on clean UI and frontend development.
 ## 🛣️ Developer Roadmap
 
 ```text
-Java Fundamentals
-      │
-      ▼
-OOP • Collections • Exception Handling
-      │
-      ▼
-SQL + MySQL
-      │
-      ▼
-Hibernate
-      │
-      ▼
-Spring Boot  ◄── Currently Learning
-      │
-      ▼
-REST APIs + Backend Projects
-      │
-      ▼
-Full-Stack Development
+Programming Fundamentals
+        │
+        ├───────────────┐
+        ▼               ▼
+     Java            Frontend
+        │               │
+        ▼               ▼
+ OOP • SQL        HTML • CSS • JS
+        │               │
+        ▼               ▼
+   Hibernate      Frontend Projects
+        │               │
+        └───────┬───────┘
+                ▼
+           Spring Boot
+                │
+                ▼
+        REST APIs + Projects
+                │
+                ▼
+        Full-Stack Development
 ```
 
 ---
@@ -131,6 +160,6 @@ Full-Stack Development
 
 ### ✨ Building skills. Building projects. Building my developer journey.
 
-*Open to learning, collaboration and entry-level software development opportunities.*
+*Open to entry-level opportunities, learning and collaboration.*
 
 </div>
