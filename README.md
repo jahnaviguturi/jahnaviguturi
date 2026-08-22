@@ -61,13 +61,22 @@ I enjoy building practical applications and learning how software works from the
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,mysql,hibernate" alt="Backend and database" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven" alt="Tools" />
+### Programming & Web
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap" alt="Programming and web technologies" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,nodejs,maven" alt="Backend and database technologies" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jira" alt="Tools and platforms" />
 
 </div>
+
+**Also familiar with:** Core Java • JDBC • SQL • Oracle • REST APIs
+
+**Core concepts:** OOP • Data Structures & Algorithms • DBMS • Operating Systems • SDLC • Agile
+
+> 🌱 **Currently learning:** Spring Boot and REST API development
 
 ---
 
@@ -94,7 +103,7 @@ I enjoy building practical applications and learning how software works from the
 ### 🌦️ ClimaCore
 **Weather Application**
 
-`JavaScript` `HTML` `CSS` `API`
+`JavaScript` `HTML` `CSS` `Node.js` `REST API`
 
 Fetches and displays weather information using an external API.
 
