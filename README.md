@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jahnavi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+2026+Graduate;Java+%E2%80%A2+Python+%E2%80%A2+Backend+%E2%80%A2+Frontend;Building+projects.+Solving+problems.+Growing+every+day." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+2026+Graduate;Java+%E2%80%A2+Python+%E2%80%A2+Backend+%E2%80%A2+Frontend;Learn.+Build.+Debug.+Repeat." alt="Animated developer introduction" />
 
 <p>
   <a href="mailto:jahnaviguturi1@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&style=flat-square&color=7C3AED" alt="Profile views" />
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="decorative divider" />
 
----
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -136,12 +136,12 @@ A responsive website focused on UI and frontend fundamentals.
 ## 🧠 Currently Leveling Up
 
 ```text
-Java                 ████████████████████
-SQL & MySQL          ██████████████████░░
-Hibernate            ████████████████░░░░
-Spring Boot          ████████████░░░░░░░░
-JavaScript           █████████████░░░░░░░
-DSA & Problem Solving██████████████░░░░░░
+Java                  ████████████████████
+SQL & MySQL           ██████████████████░░
+Hibernate             ████████████████░░░░
+Spring Boot           ████████████░░░░░░░░
+JavaScript            █████████████░░░░░░░
+DSA & Problem Solving ██████████████░░░░░░
 ```
 
 ---
@@ -162,7 +162,17 @@ Frontend ◄── HTML • CSS • JavaScript ◄────────┘
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%" alt="decorative divider" />
 
 ### 💡 *Learn. Build. Debug. Repeat.*
 
