@@ -7,7 +7,6 @@
 <p>
   <a href="mailto:jahnaviguturi1@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/jahnaviguturi"><img src="https://img.shields.io/badge/GitHub-jahnaviguturi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jahnaviguturi&label=Profile%20Views&style=flat-square&color=7C3AED" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="decorative divider" />
@@ -85,10 +84,7 @@ I enjoy building practical applications and learning how software works from the
 ## 📊 GitHub Snapshot
 
 <div align="center">
-
-### ☕ Java-Focused Development
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jahnaviguturi&theme=transparent" height="170" alt="Most used commit language" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=transparent" height="170" alt="Repositories by language" />
 </div>
 
 <br/>
@@ -96,6 +92,8 @@ I enjoy building practical applications and learning how software works from the
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnaviguturi&theme=transparent" alt="GitHub contribution summary" />
 </div>
+
+> The language card reflects my actual public GitHub repositories and is not manually altered. Java remains my primary development focus even when repository language percentages vary.
 
 ---
 
@@ -115,12 +113,12 @@ Fetches and displays weather information using an external API.
 </td>
 <td width="33%" valign="top">
 
-### ✅ ToDo Application
-**Task Management App**
+### 📚 Library Management System
+**Java Desktop Application**
 
-`JavaScript` `HTML` `CSS` `LocalStorage`
+`Java` `JDBC` `MySQL`
 
-A simple task manager with persistent browser storage.
+A library management system for managing books and related records using Java and MySQL.
 
 </td>
 <td width="33%" valign="top">
@@ -151,6 +149,16 @@ DSA & Problem Solving ██████████████░░░░░�
 
 ---
 
+## 🧩 Problem Solving
+
+### < > LeetCode
+
+I practise data structures and algorithms on **LeetCode** as part of strengthening my problem-solving skills.
+
+> 📈 Progress matters more than inflated numbers — this section will grow as my practice record grows.
+
+---
+
 ## 🗺️ Current Learning Path
 
 ```text
@@ -164,17 +172,6 @@ Frontend ◄── HTML • CSS • JavaScript ◄────────┘
                     ▼
             Full-Stack Projects
 ```
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
