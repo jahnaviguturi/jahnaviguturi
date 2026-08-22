@@ -162,14 +162,6 @@ Frontend ◄── HTML • CSS • JavaScript ◄────────┘
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jahnaviguturi/jahnaviguturi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%" alt="decorative divider" />
