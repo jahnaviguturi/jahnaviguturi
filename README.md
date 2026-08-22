@@ -61,18 +61,20 @@ I enjoy building practical applications and learning how software works from the
 
 <div align="center">
 
-### Programming & Web
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap" alt="Programming and web technologies" />
+### ☕ Primary Focus
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" alt="Java backend technologies" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,nodejs,maven" alt="Backend and database technologies" />
+### 🌐 Web & Programming
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap" alt="Python and web technologies" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jira" alt="Tools and platforms" />
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jira,maven" alt="Tools and platforms" />
 
 </div>
 
-**Also familiar with:** Core Java • JDBC • SQL • Oracle • REST APIs
+**Java focus:** Core Java • JDBC • SQL • MySQL • Hibernate • Spring Boot • REST APIs
+
+**Also working with:** Python • JavaScript • HTML • CSS • React • Bootstrap • Oracle
 
 **Core concepts:** OOP • Data Structures & Algorithms • DBMS • Operating Systems • SDLC • Agile
 
@@ -83,7 +85,10 @@ I enjoy building practical applications and learning how software works from the
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=transparent" height="170" alt="Repositories by language" />
+
+### ☕ Java-Focused Development
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jahnaviguturi&theme=transparent" height="170" alt="Most used commit language" />
+
 </div>
 
 <br/>
@@ -103,7 +108,7 @@ I enjoy building practical applications and learning how software works from the
 ### 🌦️ ClimaCore
 **Weather Application**
 
-`JavaScript` `HTML` `CSS` `Node.js` `REST API`
+`JavaScript` `HTML` `CSS` `REST API`
 
 Fetches and displays weather information using an external API.
 
