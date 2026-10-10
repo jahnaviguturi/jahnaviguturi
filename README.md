@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Jahnavi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+2026+Graduate;Java+%E2%80%A2+Python+%E2%80%A2+Backend+%E2%80%A2+Frontend;Learn.+Build.+Debug.+Repeat." alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&lines=Software+Developer+%7C+2026+Graduate;Java+%E2%80%A2+Python+%E2%80%A2+Backend+%E2%80%A2+Frontend;Learn.+Build.+Debug.+Repeat." alt="Animated developer introduction" />
 
 <p>
-  <a href="mailto:jahnaviguturi1@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jahnaviguturi"><img src="https://img.shields.io/badge/GitHub-jahnaviguturi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:jahnaviguturi1@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jahnaviguturi"><img src="https://img.shields.io/badge/GitHub-jahnaviguturi-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="decorative divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=4&section=header" width="100%" alt="decorative divider" />
 
 </div>
 
@@ -35,6 +35,7 @@ I enjoy building practical applications and learning how software works from the
 <td width="50%" valign="top">
 
 ### 💻 Software Engineering
+
 - Junior Software Developer
 - Software Engineer — Fresher
 - Associate Software Engineer
@@ -44,6 +45,7 @@ I enjoy building practical applications and learning how software works from the
 <td width="50%" valign="top">
 
 ### ☕ Development Roles
+
 - Java Developer — Fresher
 - Backend Developer — Java
 - Java Full Stack Developer
@@ -61,13 +63,16 @@ I enjoy building practical applications and learning how software works from the
 <div align="center">
 
 ### ☕ Primary Focus
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" alt="Java backend technologies" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=light" alt="Java backend technologies" />
 
 ### 🌐 Web & Programming
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap" alt="Python and web technologies" />
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap&theme=light" alt="Python and web technologies" />
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jira,maven" alt="Tools and platforms" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jira,maven&theme=light" alt="Tools and platforms" />
 
 </div>
 
@@ -84,13 +89,13 @@ I enjoy building practical applications and learning how software works from the
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=transparent" height="170" alt="Repositories by language" />
-</div>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahnaviguturi&theme=github_dark" height="170" alt="Repositories by language" />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnaviguturi&theme=transparent" alt="GitHub contribution summary" />
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahnaviguturi&theme=github_dark" alt="GitHub contribution summary" />
+
 </div>
 
 > The language card reflects my actual public GitHub repositories and is not manually altered. Java remains my primary development focus even when repository language percentages vary.
@@ -104,9 +109,11 @@ I enjoy building practical applications and learning how software works from the
 <td width="33%" valign="top">
 
 ### 🍽️ [Dishly](https://github.com/jahnaviguturi/Dishly)
+
 **Django Food Ordering Web App**
 
-`Python` `Django` `HTML` `CSS` `Razorpay`
+<img src="https://img.shields.io/badge/Python-Django-0F766E?style=flat-square" alt="Python and Django" />
+<img src="https://img.shields.io/badge/Payments-Razorpay-0F766E?style=flat-square" alt="Razorpay" />
 
 A food-ordering application with customer sign-up/sign-in, restaurant menus, cart management, checkout, and Razorpay payment integration.
 
@@ -114,9 +121,11 @@ A food-ordering application with customer sign-up/sign-in, restaurant menus, car
 <td width="33%" valign="top">
 
 ### 📚 [CampusReads](https://github.com/jahnaviguturi/CampusReads-Library-Management-System)
+
 **Library Management System**
 
-`Java` `JDBC` `MySQL`
+<img src="https://img.shields.io/badge/Java-JDBC-1E293B?style=flat-square" alt="Java and JDBC" />
+<img src="https://img.shields.io/badge/Database-MySQL-1E293B?style=flat-square" alt="MySQL" />
 
 A console-based system for managing books and student records, issuing and returning books, tracking availability, and handling database operations with JDBC.
 
@@ -124,11 +133,13 @@ A console-based system for managing books and student records, issuing and retur
 <td width="33%" valign="top">
 
 ### 🍽️ [Swaadika](https://github.com/jahnaviguturi/Swaadika)
+
 **Restaurant Website**
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/HTML-CSS-EA580C?style=flat-square" alt="HTML and CSS" />
+<img src="https://img.shields.io/badge/JavaScript-EA580C?style=flat-square" alt="JavaScript" />
 
-A responsive restaurant website focused on frontend design and core web development fundamentals.
+A responsive website focused on UI and frontend fundamentals.
 
 </td>
 </tr>
@@ -177,7 +188,7 @@ Frontend ◄── HTML • CSS • JavaScript ◄────────┘
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer" width="100%" alt="decorative divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=4&section=footer" width="100%" alt="decorative divider" />
 
 ### 💡 *Learn. Build. Debug. Repeat.*
 
