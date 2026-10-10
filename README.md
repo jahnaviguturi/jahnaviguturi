@@ -103,32 +103,32 @@ I enjoy building practical applications and learning how software works from the
 <tr>
 <td width="33%" valign="top">
 
-### 🌦️ ClimaCore
-**Weather Application**
+### 🍽️ [Dishly](https://github.com/jahnaviguturi/Dishly)
+**Django Food Ordering Web App**
 
-`JavaScript` `HTML` `CSS` `REST API`
+`Python` `Django` `HTML` `CSS` `Razorpay`
 
-Fetches and displays weather information using an external API.
+A food-ordering application with customer sign-up/sign-in, restaurant menus, cart management, checkout, and Razorpay payment integration.
 
 </td>
 <td width="33%" valign="top">
 
-### 📚 Library Management System
-**Java Desktop Application**
+### 📚 [CampusReads](https://github.com/jahnaviguturi/CampusReads-Library-Management-System)
+**Library Management System**
 
 `Java` `JDBC` `MySQL`
 
-A library management system for managing books and related records using Java and MySQL.
+A console-based system for managing books and student records, issuing and returning books, tracking availability, and handling database operations with JDBC.
 
 </td>
 <td width="33%" valign="top">
 
-### 🍽️ Swaadika
+### 🍽️ [Swaadika](https://github.com/jahnaviguturi/Swaadika)
 **Restaurant Website**
 
 `HTML` `CSS` `JavaScript`
 
-A responsive website focused on UI and frontend fundamentals.
+A responsive restaurant website focused on frontend design and core web development fundamentals.
 
 </td>
 </tr>
